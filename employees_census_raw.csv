@@ -1,0 +1,201 @@
+employee_id,first_name,last_name,department,job_title,location,hire_date,salary,employment_status,termination_date
+2001,Liam,Chen,Marketing,Marketing Coordinator,"Denver, CO",2017-04-13,59000.00,Active,
+2002,Sofia,Nguyen,Human Resources,HR Coordinator,"Chicago, IL",2023-08-16,52000.00,Active,
+2003,Liam,Taylor,Information Technology,IT Support Specialist,"Herndon, VA",2023-04-18,73000.00,Terminated,2026-07-07
+2004,Isabella,Brown,Operations,Operations Specialist,"Chicago, IL",2025-07-06,68000.00,Active,
+2005,Leo,Wilson,Finance,Accountant,"Herndon, VA",2018-02-23,73000.00,Terminated,2019-05-25
+2006,Julian,Anderson,Operations,Operations Specialist,"Dallas, TX",2025-03-08,58000.00,Active,
+2007,Camila,Nguyen,Information Technology,Data Analyst,"Denver, CO",2026-04-21,83000.00,Active,
+2008,Leo,Smith,Human Resources,HR Coordinator,"Dallas, TX",2024-06-01,53000.00,Terminated,2025-05-23
+2009,Noah,Wilson,Sales,Account Executive,"Atlanta, GA",2022-02-01,93000.00,Active,
+2010,Sofia,Perez,Finance,Accountant,"Denver, CO",2024-11-14,82000.00,Active,
+2011,Julian,Thompson,Finance,Senior Financial Analyst,"Denver, CO",2018-11-01,96000.00,Active,
+2012,Sofia,Kim,Information Technology,Systems Analyst,"Chicago, IL",2024-09-05,99000.00,Active,
+2013,Julian,Lee,Human Resources,HR Manager,"Denver, CO",2021-07-02,96000.00,Active,
+2014,Amelia,Chen,Operations,Operations Analyst,"Atlanta, GA",2024-05-08,85000.00,Active,
+2015,Sebastian,Lee,Finance,Senior Financial Analyst,"Phoenix, AZ",2025-05-10,96000.00,Active,
+2016,James,Garcia,Information Technology,IT Manager,"Dallas, TX",2021-01-22,137000.00,Terminated,2021-12-31
+2017,Henry,Garcia,Human Resources,HR Generalist,"Phoenix, AZ",2024-01-15,78000.00,Terminated,2026-02-09
+2018,Leo,Patel,HR,Sales Manager,"Denver, CO",2022-04-02,130000.00,Active,
+2019,Sofia,Thompson,Marketing,Marketing Coordinator,"Atlanta, GA",2024-08-24,60000.00,Active,
+2020,Sebastian,Walker,Human Resources,HR Manager,"Denver, CO",2021-11-16,120000.00,Terminated,2022-01-21
+2021,Ethan,Lewis,Operations,Operations Analyst,"Denver, CO",2022-09-11,85000.00,Active,
+2022,Benjamin,Clark,Information Technology,Systems Analyst,"Herndon, VA",2018-09-19,80000.00,Active,
+2023,Aria,Ramirez,Human Resources,HR Manager,"Atlanta, GA",2022-06-25,118000.00,Terminated,2024-09-05
+2024,Sofia,Sanchez,Finance,Financial Analyst,"Phoenix, AZ",2019-09-14,72000.00,Active,
+2025,Noah,Brown,Human Resources,HR Generalist,"Herndon, VA",2018-06-10,82000.00,Active,
+2026,Evelyn,Martinez,Information Technology,IT Manager,"Phoenix, AZ",2019-05-18,117000.00,Active,
+2027,Amelia,Johnson,Marketing,Marketing Manager,"Chicago, IL",2021-03-10,106000.00,Active,
+2028,Liam,Patel,Finance,Financial Analyst,"Dallas, TX",2020-10-16,88000.00,Terminated,2023-07-15
+2029,Isabella,Garcia,Marketing,Marketing Manager,"Herndon, VA",2017-08-30,117000.00,Terminated,2018-03-06
+2030,Emily,Sanchez,Finance,Accountant,"Herndon, VA",2024-07-03,79000.00,Active,
+2031,Ava,Johnson,Information Technology,IT Manager,"Dallas, TX",2019-09-23,131000.00,Active,
+2032,Leo,Sanchez,Marketing,Marketing Analyst,"Dallas, TX",2020-12-22,79000.00,Active,
+2033,Isabella,Ramirez,Marketing,Marketing Manager,"Dallas, TX",2024-03-31,113000.00,Terminated,2025-07-16
+2034,Mateo,Williams,Finance,Senior Financial Analyst,"Atlanta, GA",2019-02-19,92000.00,Active,
+2035,Marcus,Kim,Sales,Sales Representative,"Denver, CO",2017-11-05,72000.00,Active,
+2036,Noah,Thomas,Information Technology,IT Support Specialist,"Phoenix, AZ",2018-01-18,67000.00,Active,
+2037,Mia,Patel,Sales,Sales Representative,"Phoenix, AZ",2021-07-01,60000.00,Active,
+2038,Alexander,Harris,Operations,Regional Operations Manager,"Phoenix, AZ",2020-03-14,140000.00,Active,
+2039,Sebastian,Martin,Finance,Senior Financial Analyst,"Dallas, TX",2020-04-30,106000.00,Terminated,2021-02-23
+2040,Julian,Robinson,Marketing,Marketing Analyst,"Herndon, VA",2017-08-23,81000.00,Terminated,2023-02-25
+2041,Henry,Garcia,Finance,Financial Analyst,"Denver, CO",2022-09-12,72000.00,Terminated,2023-11-26
+2042,Camila,Perez,Finance,Finance Manager,"Dallas, TX",2018-05-07,115000.00,Active,
+2043,Harper,Davis,Information Technology,IT Support Specialist,"Atlanta, GA",2021-09-14,78000.00,Active,
+2044,Alexander,Thompson,Finance,Accountant,"Atlanta, GA",2019-09-05,66000.00,Active,
+2045,Amelia,Perez,Sales,Account Executive,"Herndon, VA",2025-06-07,70000.00,Active,
+2046,Julian,Wilson,Human Resources,HR Coordinator,"Dallas, TX",2023-01-12,54000.00,Terminated,2024-09-06
+2047,Ethan,Perez,Finance,Accountant,"Denver, CO",2020-03-13,84000.00,Terminated,2026-06-15
+2048,Julian,White,Information Technology,IT Support Specialist,"Dallas, TX",2024-06-28,69000.00,Active,
+2049,Benjamin,Chen,Finance,Accountant,"Atlanta, GA",2018-04-18,85000.00,Active,
+2050,Leo,Brown,Operations,Operations Analyst,"Herndon, VA",2025-01-18,85000.00,Active,
+2051,Daniel,Patel,Sales,Account Executive,"Atlanta, GA",2026-06-28,87000.00,Terminated,2026-09-23
+2052,Evelyn,Thomas,Finance,Accountant,"Herndon, VA",2018-10-24,79000.00,Active,
+2053,Chloe,Chen,Human Resources,HR Coordinator,"Herndon, VA",2017-11-05,63000.00,Active,
+2054,Emily,Kim,Human Resources,HR Manager,"Atlanta, GA",2023-07-14,103000.00,Active,
+2055,Lucas,Clark,Operations,Operations Specialist,"Herndon, VA",2021-01-05,58000.00,Terminated,2022-07-30
+2056,Jack,Ramirez,Sales,Sales Manager,"Chicago, IL",2025-05-28,105000.00,Terminated,2025-11-25
+2057,Jack,Young,Sales,Sales Representative,"Phoenix, AZ",2019-01-05,65000.00,Active,
+2058,Jack,Harris,Marketing,Marketing Manager,"Dallas, TX",2026-02-03,95000.00,Active,
+2059,Aria,Young,human resources,Sales Representative,"Phoenix, AZ",2026-08-18,61000.00,Active,
+2060,Liam,Patel,Operations,Operations Manager,"Denver, CO",2026-03-15,92000.00,Active,
+2061,Sofia,Brown,Finance,Finance Manager,"Atlanta, GA",2020-09-06,104000.00,Active,
+2062,Benjamin,Davis,Marketing,Marketing Manager,"Dallas, TX",2021-06-26,116000.00,Active,
+2063,Daniel,Johnson,Human Resources,HR Manager,"Herndon, VA",2019-01-02,98000.00,Active,
+2064,Henry,Jackson,Sales,Account Executive,"Dallas, TX",2025-03-04,97000.00,Active,
+2065,Maya,Jackson,Sales,Sales Manager,"Herndon, VA",2019-02-18,122000.00,Active,
+2066,Lucas,Thomas,Marketing,Marketing Manager,"Dallas, TX",2025-04-28,96000.00,Active,
+2067,Sebastian,Walker,Marketing,Marketing Analyst,"Atlanta, GA",2023-12-28,68000.00,Active,
+2068,Evelyn,Martinez,Information Technology,Data Analyst,"Herndon, VA",2024-06-24,84000.00,Active,
+2069,Alexander,Sanchez,Finance,Senior Financial Analyst,"Chicago, IL",2021-09-19,100000.00,Active,
+2070,Ethan,Martinez,Information Technology,Data Analyst,"Chicago, IL",2021-07-22,72000.00,Active,
+2071,Amelia,Taylor,Sales,Sales Manager,"Denver, CO",2023-10-21,124000.00,Active,
+2072,Alexander,Garcia,Finance,Finance Manager,"Atlanta, GA",2025-11-26,110000.00,Active,
+2073,Liam,White,Information Technology,Data Analyst,"Atlanta, GA",2018-01-18,96000.00,Active,
+2074,Henry,Robinson,Finance,Senior Financial Analyst,"Dallas, TX",2018-08-27,103000.00,Terminated,2021-07-24
+2075,James,Anderson,Sales,Account Executive,"Chicago, IL",2024-01-24,94000.00,Active,
+2076,Sofia,Thomas,Finance,Financial Analyst,"Chicago, IL",2025-06-03,73000.00,Active,
+2077,Amelia,Chen,Finance,Finance Manager,"Phoenix, AZ",2017-07-25,107000.00,Active,
+2078,Sofia,Walker,Marketing,Marketing Manager,"Phoenix, AZ",2023-04-09,120000.00,Active,
+2079,Chloe,Williams,Information Technology,IT Manager,"Denver, CO",2026-04-26,133000.00,Active,
+2080,Sofia,Clark,Sales,Account Executive,"Herndon, VA",2019-11-28,87000.00,Active,
+2081,Evelyn,Martinez,Sales,Sales Manager,"Chicago, IL",2019-09-07,99000.00,Active,
+2082,Emily,Chen,Operations,Operations Manager,Dallas TX,2020-08-02,87000.00,Active,
+2083,Mateo,Thomas,Sales,Sales Manager,"Atlanta, GA",2018-09-18,99000.00,Active,
+2084,Mia,Walker,Information Technology,IT Manager,"Herndon, VA",2021-08-31,131000.00,Terminated,2026-07-01
+2085,James,Patel,Marketing,Marketing Coordinator,"Atlanta, GA",2026-08-11,64000.00,Active,
+2086,Benjamin,Sanchez,Operations,Regional Operations Manager,"Denver, CO",2026-07-28,131000.00,Active,
+2087,Maya,Anderson,Information Technology,Systems Analyst,"Atlanta, GA",2022-06-23,90000.00,Terminated,2025-01-30
+2088,Aria,Taylor,Marketing,Marketing Manager,"Chicago, IL",2025-12-14,95000.00,Active,
+2089,Sofia,Thompson,Information Technology,IT Support Specialist,"Phoenix, AZ",2021-06-02,60000.00,Active,
+2090,Ava,Taylor,Finance,Finance Manager,"Atlanta, GA",2019-01-15,120000.00,Terminated,2023-06-15
+2091,Olivia,Lewis,Operations,Regional Operations Manager,"Dallas, TX",2020-02-14,131000.00,Active,
+2092,Liam,Thompson,Sales,Sales Representative,"Dallas, TX",2025-05-27,66000.00,Active,
+2093,Aria,Patel,Marketing,Marketing Coordinator,"Herndon, VA",2025-06-17,58000.00,Terminated,2025-12-20
+2094,Camila,Nguyen,Finance,Senior Financial Analyst,"Phoenix, AZ",2018-06-02,91000.00,Active,
+2095,Henry,Sanchez,Marketing,Marketing Analyst,"Denver, CO",2025-08-08,84000.00,Active,
+2096,Camila,White,Human Resources,HR Generalist,"Phoenix, AZ",2020-06-28,74000.00,Terminated,2020-12-10
+2097,Marcus,Harris,Sales,Sales Manager,"Atlanta, GA",2019-03-24,110000.00,Terminated,2026-06-04
+2098,Daniel,Wilson,Marketing,Marketing Manager,"Herndon, VA",2026-01-13,115000.00,Terminated,2026-08-05
+2099,Maya,Robinson,Sales,Sales Manager,"Phoenix, AZ",2021-02-26,116000.00,Terminated,2024-12-13
+2100,Chloe,Lewis,Sales,Sales Representative,"Phoenix, AZ",2021-11-11,75000.00,Active,
+2101,Henry,Ramirez,Marketing,Marketing Coordinator,"Herndon, VA",2021-11-19,60000.00,Terminated,2024-12-21
+2102,Isabella,Robinson,Sales,Account Executive,"Chicago, IL",2021-11-20,87000.00,Active,
+2103,Camila,Perez,Human Resources,HR Manager,"Denver, CO",2022-01-21,104000.00,Active,
+2104,Noah,Moore,Sales,Account Executive,"Chicago, IL",2017-04-28,90000.00,Active,
+2105,Evelyn,Walker,Operations,Operations Manager,"Atlanta, GA",2020-10-26,104000.00,Active,
+2106,Liam,Sanchez,Information Technology,IT Support Specialist,"Phoenix, AZ",2022-10-18,62000.00,Active,
+2107,Luna,Harris,Sales,Sales Manager,"Phoenix, AZ",2025-07-03,125000.00,Active,
+2108,Evelyn,Smith,Sales,Sales Representative,"Atlanta, GA",2018-01-17,67000.00,Active,
+2109,Lucas,Thomas,Marketing,Marketing Manager,"Denver, CO",2021-02-20,106000.00,Active,
+2110,Ethan,Brown,Information Technology,Data Analyst,"Chicago, IL",2020-12-12,80000.00,Active,
+2111,Ava,Nguyen,Human Resources,HR Generalist,"Denver, CO",2020-07-16,70000.00,Terminated,2026-09-17
+2112,Henry,Martinez,Sales,Account Executive,"Dallas, TX",2025-02-15,103000.00,Active,
+2113,Maya,Harris,Finance,Accountant,"Herndon, VA",2019-07-21,71000.00,Active,
+2114,Ethan,Harris,Finance,Accountant,"Chicago, IL",2017-07-06,79000.00,Active,
+2115,Ethan,Moore,Marketing,Marketing Analyst,"Phoenix, AZ",2018-02-25,83000.00,Active,
+2116,Leo,Moore,Sales,Account Executive,"Dallas, TX",2019-01-26,86000.00,Active,
+2117,Daniel,Chen,Human Resources,HR Analyst,"Chicago, IL",2022-07-08,89000.00,Terminated,2026-03-18
+2118,Benjamin,Clark,Information Technology,Data Analyst,"Phoenix, AZ",2017-12-15,75000.00,Active,
+2119,Julian,Taylor,Information Technology,Systems Analyst,"Atlanta, GA",2025-09-13,89000.00,Active,
+2120,Henry,Sanchez,Information Technology,IT Manager,"Dallas, TX",2020-06-04,108000.00,Active,
+2121,Liam,Williams,Finance,Senior Financial Analyst,"Herndon, VA",2019-12-20,93000.00,Active,
+2122,Ethan,Kim,Human Resources,HR Generalist,"Chicago, IL",2017-01-11,80000.00,Active,
+2123,Alexander,Smith,Operations,Operations Manager,"Atlanta, GA",2024-11-19,87000.00,Active,
+2124,Mateo,Johnson,Marketing,Marketing Manager,"Herndon, VA",2024-06-01,96000.00,Active,
+2125,Daniel,Williams,Finance,Senior Financial Analyst,"Atlanta, GA",2019-12-25,90000.00,Active,
+2126,Evelyn,Anderson,Information Technology,Data Analyst,"Atlanta, GA",2021-12-04,81000.00,Terminated,2025-12-13
+2127,Sebastian,Davis,Information Technology,IT Manager,"dallas, tx",2021-11-29,132000.00,Terminated,2022-04-19
+2128,Sofia,White,Operations,Operations Specialist,"Atlanta, GA",2018-01-10,55000.00,Terminated,2025-10-01
+2129,Harper,Thompson,Information Technology,IT Support Specialist,"Phoenix, AZ",2025-07-23,75000.00,Active,
+2130,Sofia,Moore,Operations,Operations Analyst,"Atlanta, GA",2023-07-26,80000.00,Active,
+2131,Isabella,Thomas,Sales,Account Executive,"Denver, CO",2020-08-08,80000.00,Active,
+2132,Daniel,Taylor,Sales,Account Executive,"Dallas, TX",2024-06-06,105000.00,Active,
+2133,Harper,Lewis,Operations,Operations Manager,"Dallas, TX",2020-08-17,112000.00,Terminated,2025-04-28
+2134,Harper,Wilson,Marketing,Marketing Manager,"Herndon, VA",2022-03-08,96000.00,Active,
+2135,Olivia,Martin,Sales,Sales Manager,"Chicago, IL",2021-12-16,108000.00,Active,
+2136,Luna,Perez,Operations,Regional Operations Manager,"Chicago, IL",2024-10-31,106000.00,Active,
+2137,Sofia,Smith,Marketing,Marketing Coordinator,"Dallas, TX",2020-06-26,65000.00,Active,
+2138,Julian,Harris,Sales,Sales Representative,"Atlanta, GA",2024-04-07,70000.00,Active,
+2139,Liam,Taylor,Information Technology,Data Analyst,"Herndon, VA",2021-08-29,87000.00,Active,
+2140,Sebastian,Walker,Finance,Finance Manager,"Chicago, IL",2019-02-20,132000.00,Active,
+2141,Isabella,Young,Human Resources,HR Manager,"Herndon, VA",2025-08-31,103000.00,Active,
+2142,Leo,Chen,Operations,Operations Specialist,"Phoenix, AZ",2020-03-04,70000.00,Active,
+2143,Mia,Taylor,Information Technology,IT Manager,"Atlanta, GA",2020-11-14,139000.00,Active,
+2144,Daniel,Davis,Finance,Senior Financial Analyst,"Denver, CO",2023-06-01,101000.00,Active,
+2145,James,Kim,Sales,Sales Manager,"Chicago, IL",2026-02-06,104000.00,active,
+2146,Marcus,Jackson,Information Technology,Data Analyst,"Phoenix, AZ",2018-02-16,86000.00,Active,
+2147,Sofia,Moore,Human Resources,HR Generalist,"Atlanta, GA",2021-08-07,69000.00,Active,
+2148,Mia,Davis,Operations,Regional Operations Manager,"Denver, CO",2024-04-15,139000.00,Terminated,2025-05-16
+2149,Luna,White,Marketing,Marketing Analyst,"Atlanta, GA",2023-01-26,72000.00,Terminated,2023-08-14
+2150,Evelyn,Robinson,Finance,Financial Analyst,"Dallas, TX",2021-11-13,90000.00,Active,
+2151,Daniel,Davis,Sales,Sales Representative,"Dallas, TX",2024-10-13,55000.00,Active,
+2152,Harper,Thomas,Operations,Operations Manager,"Herndon, VA",2021-03-16,92000.00,Active,
+2153,Henry,White,Marketing,Marketing Coordinator,"Chicago, IL",2018-11-28,64000.00,Terminated,2025-11-27
+2154,Olivia,Taylor,Sales,Sales Manager,"Atlanta, GA",2018-08-10,135000.00,Active,
+2155,Alexander,Martin,Marketing,Marketing Coordinator,"Chicago, IL",2026-01-09,61000.00,Active,
+2156,Luna,Thomas,Human Resources,HR Analyst,"Denver, CO",2020-11-16,77000.00,Active,
+2157,Leo,Moore,Operations,Regional Operations Manager,"Dallas, TX",2026-06-25,129000.00,Active,
+2158,Evelyn,Martinez,Finance,Finance Manager,"Dallas, TX",2023-06-01,118000.00,Active,
+2159,Sebastian,Moore,Marketing,Marketing Analyst,"Atlanta, GA",2020-01-30,84000.00,Terminated,2020-10-16
+2160,Olivia,White,Finance,Accountant,"Denver, CO",2019-06-17,81000.00,Active,
+2161,Luna,Thompson,Marketing,Marketing Manager,"Dallas, TX",2026-05-27,118000.00,Terminated,2026-08-07
+2162,Sofia,Young,Operations,Regional Operations Manager,"Atlanta, GA",2017-05-17,113000.00,Active,
+2163,Harper,Jackson,Operations,Regional Operations Manager,"Atlanta, GA",2018-12-21,250000.00,Terminated,2025-03-08
+2164,Sebastian,Robinson,Finance,Accountant,"Atlanta, GA",2026-04-01,71000.00,Active,
+2165,Sebastian,White,Human Resources,HR Analyst,"Phoenix, AZ",2017-11-05,89000.00,Terminated,2020-07-16
+2166,Olivia,Martin,Information Technology,Data Analyst,"Dallas, TX",2018-01-05,72000.00,Active,
+2167,Camila,Anderson,Sales,Account Executive,"Denver, CO",2024-07-18,86000.00,Active,
+2168,Henry,Walker,Operations,Operations Specialist,"Herndon, VA",2024-07-27,55000.00,Active,
+2169,Julian,Harris,Operations,Operations Analyst,"Atlanta, GA",2024-04-06,79000.00,Terminated,2026-09-26
+2170,James,Johnson,Marketing,Marketing Analyst,"Dallas, TX",2018-04-23,74000.00,Terminated,2018-11-21
+2171,Sebastian,Harris,Finance,Senior Financial Analyst,"Herndon, VA",2021-05-11,109000.00,Active,
+2172,Luna,Johnson,Sales,Sales Manager,"Phoenix, AZ",2025-04-29,121000.00,Active,
+2173,Amelia,Taylor,Information Technology,IT Manager,"Chicago, IL",2020-02-20,118000.00,Terminated,2024-06-15
+2174,Daniel,Anderson,Operations,Operations Specialist,"Atlanta, GA",2024-09-09,66000.00,Active,
+2175,Alexander,Nguyen,Finance,Financial Analyst,"Denver, CO",2026-07-06,72000.00,Active,
+2176,Emily,Ramirez,Marketing,Marketing Manager,"Herndon, VA",2017-03-29,97000.00,Terminated,
+2177,Camila,Nguyen,Finance,Financial Analyst,"Chicago, IL",2026-04-22,76000.00,Active,
+2178,Olivia,Robinson,Operations,Operations Analyst,"Chicago, IL",2025-11-05,65000.00,Active,
+2179,Emily,Patel,Finance,Accountant,"Atlanta, GA",2025-12-15,62000.00,Terminated,2026-08-01
+2180,Sebastian,Thomas,Finance,Accountant,"Herndon, VA",2017-03-06,66000.00,Terminated,2017-12-05
+2181,Harper,Lee,Human Resources,HR Coordinator,"Dallas, TX",2022-05-05,57000.00,Active,
+2182,Sebastian,Ramirez,Sales,Sales Manager,"Denver, CO",2019-06-27,97000.00,Active,
+2183,Daniel,Moore,Information Technology,Data Analyst,"Phoenix, AZ",2022-02-20,72000.00,Active,
+2184,Sofia,Walker,Sales,Sales Manager,"Dallas, TX",2018-03-19,123000.00,Active,
+2185,Camila,Martin,Operations,Operations Analyst,"Denver, CO",2017-09-27,85000.00,Terminated,2024-11-26
+2186,Harper,Perez,Operations,Regional Operations Manager,"Phoenix, AZ",2023-09-13,134000.00,Active,
+2187,Benjamin,Sanchez,Human Resources,HR Coordinator,"Chicago, IL",2026-07-26,64000.00,Active,
+2188,Mia,Thomas,Sales,Account Executive,"Denver, CO",2019-07-25,99000.00,Active,
+2189,Lucas,Chen,Human Resources,HR Manager,"Denver, CO",2021-10-15,98000.00,Active,
+2190,Mateo,Johnson,Sales,Sales Representative,"Denver, CO",2018-01-09,57000.00,Active,
+2190,Benjamin,Martin,Marketing,Marketing Analyst,"Atlanta, GA",2026-02-08,83000.00,Terminated,2026-04-24
+2192,Leo,Young,Marketing,Marketing Coordinator,"Denver, CO",2021-08-10,65000.00,Active,
+2193,Camila,Jackson,Human Resources,HR Manager,"Chicago, IL",2023-09-26,93000.00,Active,
+2194,Leo,Martin,Finance,Finance Manager,"Atlanta, GA",2019-07-08,122000.00,Active,
+2195,Benjamin,Clark,Human Resources,HR Manager,"Herndon, VA",2023-06-10,117000.00,Terminated,2026-01-03
+2196,Maya,Williams,Information Technology,IT Support Specialist,"Atlanta, GA",2023-10-31,68000.00,Active,
+2197,Leo,Chen,Marketing,Marketing Analyst,"Herndon, VA",2020-10-23,70000.00,Active,
+2198,Sofia,Sanchez,Marketing,Marketing Analyst,"Herndon, VA",2017-10-13,65000.00,Terminated,2025-01-17
+2199,Lucas,Martinez,Finance,Finance Manager,"Denver, CO",2021-09-16,110000.00,Active,
+2200,Alexander,Garcia,Operations,Operations Specialist,"Atlanta, GA",2017-08-04,56000.00,Terminated,2026-03-20
